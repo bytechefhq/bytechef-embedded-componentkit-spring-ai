@@ -22,8 +22,8 @@ extra["springAiVersion"] = "1.0.0"
 dependencies {
 	implementation("org.springframework.boot:spring-boot-starter-web")
 	implementation("org.springframework.ai:spring-ai-starter-model-openai")
-	implementation(files("libs/ai-componentkit-1.0.0.jar"))
-	implementation(files("libs/ai-componentkit-spring-1.0.0.jar"))
+	implementation(files("libs/componentkit-1.0.jar"))
+	implementation(files("libs/componentkit-spring-1.0.jar"))
 
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testRuntimeOnly("org.junit.platform:junit-platform-launcher")
