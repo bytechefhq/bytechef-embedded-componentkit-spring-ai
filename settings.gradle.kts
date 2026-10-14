@@ -1,1 +1,1 @@
-rootProject.name = "bytechef-embedded-ai-componentkit-spring-ai"
+rootProject.name = "bytechef-embedded-componentkit-spring-ai"
