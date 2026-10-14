@@ -1,7 +1,7 @@
 package org.sample.ai.componentkit.sample.rest;
 
-import com.bytechef.ai.componentkit.Environment;
-import com.bytechef.ai.componentkit.tool.ToolCallbackProviderFactory;
+import com.bytechef.componentkit.Environment;
+import com.bytechef.componentkit.tool.ToolCallbackProviderFactory;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
